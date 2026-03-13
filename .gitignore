@@ -11,3 +11,4 @@ wheels/
 
 # Manual adds
 game_state.jsonl
+game_events.jsonl
